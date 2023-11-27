@@ -1,2 +1,4 @@
 name: Natalie Wu, DSC 180A Methodology 5
 markdown: kramdown
+plugins:
+  - jekyll-default-layout
