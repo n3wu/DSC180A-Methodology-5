@@ -1,4 +1,3 @@
-name: Natalie Wu, DSC 180A Methodology 5
-markdown: kramdown
-plugins:
-  - jekyll-default-layout
+domain: n3wu.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://n3wu.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /DSC180A-Methodology-5/      # place folder name if the site is served in a subfolder
