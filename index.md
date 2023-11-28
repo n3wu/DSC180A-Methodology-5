@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Name: Natalie Wu
 
 Email: n3wu@ucsd.edu
